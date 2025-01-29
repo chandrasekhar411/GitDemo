@@ -30,18 +30,7 @@ print(val)
 # Dictionary
 dic = {"a": 2, 4:"bcd", "c": "Hello world"}
 
-#
-#
-#
-#
-#
-##
 
-#
-#
-#
-#
-#
 
 print(dic[4])
 print(dic["c"])
@@ -59,6 +48,13 @@ dict["age"] = "29"
 print(dict)
 print(dict["lastname"])
 print(dict["age"])
+
+print(dict["age"])
+
+print(dict["age"])
+print(dict["age"])
+
+
 
 
 
