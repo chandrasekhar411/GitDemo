@@ -10,14 +10,19 @@ def GreetMe(name):
 def AddIntegers(a, b):
     return a+b
 
+def subInterger(a, b):
+    return a-b
+
+def divInterger(a, b):
+    return a/b
 
 GreetMe("Rahul Shetty")
 
 print(AddIntegers(2, 3))
 
+print(subInterger(2, 3))
 
-
-
+print(divInterger(2, 3))
 
 
 

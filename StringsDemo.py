@@ -19,9 +19,9 @@ print(str4.lstrip())
 
 print(str4.rstrip())
 
+print(str4.rstrip())
 
-
-
+print(str4.rstrip())
 
 
 
