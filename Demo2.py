@@ -49,10 +49,6 @@ print(dict)
 print(dict["lastname"])
 print(dict["age"])
 
-print(dict["age"])
-
-print(dict["age"])
-print(dict["age"])
 
 
 
