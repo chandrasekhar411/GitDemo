@@ -42,9 +42,11 @@ dict["lastname"] = "shetty"
 
 dict["gender"] = "Male"
 
+dict["age"] = "29"
+
 print(dict)
 print(dict["lastname"])
-
+print(dict["age"])
 
 
 
